@@ -6,10 +6,21 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 ### Resources
 - Visual Studio Code
 - Libraries: imbalanced-learn, scikit-learn
-- Algorithms: RandomOverSampler, SMOTE, ClusterCentroids, SMOTEEN
+- Algorithms: RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN
 - LoanStats_2019Q1.csv  
 
-
 ## Results
+RandomOverSampler  
+![image](https://user-images.githubusercontent.com/86776606/199531718-babff12d-00d0-4a29-b629-ac99cbb79740.png)
+
+SMOTE Oversampling  
+![image](https://user-images.githubusercontent.com/86776606/199531987-0e5653ed-ffda-47ef-90a8-2ad9d7c3d276.png)
+
+ClusterCentroid Resampler  
+![image](https://user-images.githubusercontent.com/86776606/199532430-6648e548-8ff6-44ce-8ab9-a65f7a797307.png)
+
+SMOTEENN  
+![image](https://user-images.githubusercontent.com/86776606/199532699-884ab1e4-c7c7-4a63-a231-8981bacc859a.png)
+
 
 ## Suammry
