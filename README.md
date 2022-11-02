@@ -10,8 +10,9 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 - LoanStats_2019Q1.csv  
 
 ### Metrics
-- pre = Precision: The reliability of positive classification
-- rec = Recall: The ability to find all positive samples
+- Accuracy: The reliabilty of the predictive scoring
+- pre = Precision: The reliability of positive classification. Low precision equates to a large number of false positives.
+- rec = Recall: The ability to find all positive samples. Low recall equates to a large number of false negatives.
 - spe = Specificity: The recall of negative values. What portion of negative predictions are true
 - f1 = F1 Score: Weighted average of the Recall and Precision rate
 - geo = Geometric Mean: Analyzes algorithmic performance on a score of 0.0-1.0
