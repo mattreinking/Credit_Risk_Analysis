@@ -11,16 +11,27 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 ## Results
 RandomOverSampler  
-![image](https://user-images.githubusercontent.com/86776606/199531718-babff12d-00d0-4a29-b629-ac99cbb79740.png)
+![image](https://user-images.githubusercontent.com/86776606/199531718-babff12d-00d0-4a29-b629-ac99cbb79740.png)  
+- 
 
 SMOTE Oversampling  
-![image](https://user-images.githubusercontent.com/86776606/199531987-0e5653ed-ffda-47ef-90a8-2ad9d7c3d276.png)
+![image](https://user-images.githubusercontent.com/86776606/199531987-0e5653ed-ffda-47ef-90a8-2ad9d7c3d276.png)  
+- 
 
 ClusterCentroid Resampler  
-![image](https://user-images.githubusercontent.com/86776606/199532430-6648e548-8ff6-44ce-8ab9-a65f7a797307.png)
+![image](https://user-images.githubusercontent.com/86776606/199532430-6648e548-8ff6-44ce-8ab9-a65f7a797307.png)  
+- 
 
 SMOTEENN  
-![image](https://user-images.githubusercontent.com/86776606/199532699-884ab1e4-c7c7-4a63-a231-8981bacc859a.png)
+![image](https://user-images.githubusercontent.com/86776606/199532699-884ab1e4-c7c7-4a63-a231-8981bacc859a.png)  
+- 
 
+BalancedRandomForestClassifier  
+![image](https://user-images.githubusercontent.com/86776606/199542415-f88400c1-5a30-4529-a81a-8491efda2ab7.png)  
+- 
 
-## Suammry
+EasyEnsembleClassifier  
+![image](https://user-images.githubusercontent.com/86776606/199542546-68265f9b-c8f0-4ec1-8c23-91fcdac437f8.png)  
+- 
+
+## Summary
