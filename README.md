@@ -22,31 +22,36 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 RandomOverSampler  
 ![image](https://user-images.githubusercontent.com/86776606/199567126-8476a14f-7f34-4201-9140-b4105ba0e822.png)
 ![image](https://user-images.githubusercontent.com/86776606/199531718-babff12d-00d0-4a29-b629-ac99cbb79740.png)  
-- The RandomOverSampler has an accuracy score of 64%
+- The RandomOverSampler has an accuracy score of 64%, total precision score of 99% and total recall score of 58%
+
 
 SMOTE Oversampling  
 ![image](https://user-images.githubusercontent.com/86776606/199567288-dc8734f4-7f75-450b-9d58-d795f66e2266.png)
 ![image](https://user-images.githubusercontent.com/86776606/199531987-0e5653ed-ffda-47ef-90a8-2ad9d7c3d276.png)  
-- The SMOTE Oversampling has an accuracy score of 66%
+- The SMOTE Oversampling has an accuracy score of 66%, total precision score of 99% and total recall score of 69%
+
 
 ClusterCentroid Resampler  
 ![image](https://user-images.githubusercontent.com/86776606/199567423-552aaf73-e628-48a4-bd39-fef68410e2ef.png)
 ![image](https://user-images.githubusercontent.com/86776606/199532430-6648e548-8ff6-44ce-8ab9-a65f7a797307.png)  
-- The ClusterCentroid Resampler has an accuracy score of 66%
+- The ClusterCentroid Resampler has an accuracy score of 66%, total precision score of 99% and total recall score of 69%
+
 
 SMOTEENN  
 ![image](https://user-images.githubusercontent.com/86776606/199567491-a19580fb-9a95-4437-afe4-c3315d1a1668.png)
 ![image](https://user-images.githubusercontent.com/86776606/199532699-884ab1e4-c7c7-4a63-a231-8981bacc859a.png)  
-- The SMOTEENN has an accuracy score of 66%
+- The SMOTEENN has an accuracy score of 66%, total precision score of 99% and total recall score of 69%
+
 
 BalancedRandomForestClassifier  
 ![image](https://user-images.githubusercontent.com/86776606/199567610-c1827e2b-d6c1-4e84-8cfc-9f1153a98ca1.png)
 ![image](https://user-images.githubusercontent.com/86776606/199542415-f88400c1-5a30-4529-a81a-8491efda2ab7.png)  
-- The BalancedRandomForestClassifier has an accuracy score of 83%
+- The BalancedRandomForestClassifier has an accuracy score of 83%, total precision score of 99% and total recall score of 90%
+
 
 EasyEnsembleClassifier  
 ![image](https://user-images.githubusercontent.com/86776606/199567667-d8e4dd05-519d-4ac9-9238-80d16d193549.png)
 ![image](https://user-images.githubusercontent.com/86776606/199542546-68265f9b-c8f0-4ec1-8c23-91fcdac437f8.png)  
-- The EasyEnsembleClassifier has an accuracy score of 93%
+- The EasyEnsembleClassifier has an accuracy score of 93%, total precision score of 99% and total recall score of 94%
 
 ## Summary
