@@ -9,6 +9,15 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 - Algorithms: RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN
 - LoanStats_2019Q1.csv  
 
+### Metrics
+- pre = Precision: The reliability of positive classification
+- rec = Recall: The ability to find all positive samples
+- spe = Specificity: The recall of negative values. What portion of negative predictions are true
+- f1 = F1 Score: Weighted average of the Recall and Precision rate
+- geo = Geometric Mean: Analyzes algorithmic performance on a score of 0.0-1.0
+- iba = Index Balanced Accuracy: Evaluates the learning processes in two-class imbalanced domains
+- sup = Support: Number of occurrences of each y_true value
+
 ## Results
 RandomOverSampler  
 ![image](https://user-images.githubusercontent.com/86776606/199531718-babff12d-00d0-4a29-b629-ac99cbb79740.png)  
